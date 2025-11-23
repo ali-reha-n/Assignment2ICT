@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def Ali_Rehan():
     run_loop = True
     while run_loop:
@@ -25,7 +25,6 @@ def Ali_Rehan():
             print("Terminating..........")
         elif do_again == "yes":
             print("Restarting........If you did not enter yes and are wondering why it restarted, then it is your punishment because I told you how and what you were supposed to enter and you did not follow the instructions.")
-=======
 import random
 import time
 
@@ -61,4 +60,3 @@ def Sheharyar_Khalid():
             break      # exit main game loop and ends program if user enters anything other then 'y'
 
 Sheharyar_Khalid()
->>>>>>> 0c8d15a0d41e4cd4c7c1999d71070596d9cc2887
